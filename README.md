@@ -1,0 +1,14 @@
+# hero2ltexx-user 6.0.1 MMB29K G935FXXU1APD1 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: hero2lte
+- flavor: hero2ltexx-user
+- release: 6.0.1
+- id: MMB29K
+- incremental: G935FXXU1APD1
+- tags: release-keys
+- fingerprint: samsung/hero2ltexx/hero2lte:6.0.1/MMB29K/G935FXXU1APD1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: hero2ltexx-user-6.0.1-MMB29K-G935FXXU1APD1-release-keys
+- repo: samsung_hero2lte_dump
